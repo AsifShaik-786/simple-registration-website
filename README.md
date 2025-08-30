@@ -1,15 +1,15 @@
-# Login Registration UI
+# Login Registration UI  
+## Live Demo: [login-registration-ui.vercel.app](https://login-registration-ui.vercel.app/)  
 
-A simple and responsive **Login & Registration UI** built using HTML, CSS.
-This project includes a clean landing page, search bar, and a login form with basic validation.
+A simple **Login & Registration UI** built using **HTML and CSS**.  
+This project includes a clean landing page, search bar, and a login form.  
 
-## Features
-- Responsive design  
-- Search bar with action  
-- Login form with basic validation  
-- Google login button (demo)  
+## ✨ Features  
+- Static login & registration UI  
+- Search bar (UI only)  
+- Simple and clean design  
 - Easy to customize  
 
-## Technologies Used
+## 🛠 Technologies Used  
 - HTML  
 - CSS  
